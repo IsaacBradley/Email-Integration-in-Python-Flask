@@ -6,6 +6,7 @@ Components
 - Python
 - Images
 - HTML
+- Java Script
 - CSS
 
 Libraries
