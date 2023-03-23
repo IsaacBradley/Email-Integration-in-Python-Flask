@@ -2,17 +2,20 @@
 Integrate your form with email in python flask
 
 # Project Structure
-Components
+Languages
 - Python
-- Images
 - HTML
 - CSS
 
-Libraries
+Frameworks
 - flask
   - Flash
   - Flask
   - render_template
+
+Components
+- Form
+- formsubmit.co
 
 
 
